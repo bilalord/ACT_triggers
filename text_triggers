@@ -1,0 +1,16 @@
+<Trigger R="Blazing path, lead me to iron rule!" SD="Thermo + Chariot" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="Fleeting light! Amid a rain of stars, exalt you the red moon!" SD="Meteor + Dive" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="Fleeting light! 'Neath the red moon, scorch you the earth!" SD="Dive + Thermo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From hallowed moon I bare iron, in my descent to wield!" SD="Dynamo + Chariot + Dive" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From hallowed moon I descend, a rain of stars to bring!" SD="Dynamo + Dive + Stream" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From hallowed moon I descend, upon burning earth to tread!" SD="Dynamo + Dive + Thermo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From on high I descend, the hallowed moon to call!" SD="Dive + Dynamo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From on high I descend, the iron path to call!" SD="Dive + Chariot" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From on high I descend, the iron path to walk!" SD="Dive + Chariot" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="From on high I descend, the moon and stars to bring!" SD="Dive + Dynamo + Meteor" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="O hallowed moon, shine you the iron path!" SD="Dynamo + Chariot" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="O hallowed moon, take fire and scorch my foes!" SD="Dynamo + Thermo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="Take fire, O hallowed moon!" SD="Thermo + Dynamo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="Unbending iron, descend with fiery edge!" SD="Chariot + Dive + Thermo" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="Unbending iron, take fire and descend!" SD="Chariot + Thermo + Dive" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
+<Trigger R="You suffer the effect of Thunderstruck." SD="Thunder" ST="3" CR="F" C="UCOB" T="F" TN="" Ta="F" />
